@@ -1,0 +1,43 @@
+body{
+	background: white;
+background-image: url(http://www.publicdomainpictures.net/pictures/20000/velka/rough-beige-paper-texture.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.text {
+
+	
+	background-color: rgba(255,255,255,.5);
+	box-shadow: 10px 10px 10px #999999;
+	text-align: left;
+	vertical-align: top;
+	margin-left: 10%;
+margin-right:10%;
+	margin-top:10px;
+	margin-bottom:25px; 
+	padding: 10px;
+
+}
+
+#personal_info{
+	padding:2px;
+
+}
+
+header h5{
+	font-weight: bold;
+	font-variant: underline;
+}
+p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+}
+
+
+li{
+
+}
+
+
+
